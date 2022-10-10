@@ -28,7 +28,7 @@ I'm Gabriel, a passionate software developer from Brazil. I'm 21, and currently 
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriellopess&layout=compact&theme=react&hide_border=true" />
 </p>
 
-- #### Get in touch:
+### Get in touch:
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Gabriellopess)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-lopes1201/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/gabriel.lopes_s)
