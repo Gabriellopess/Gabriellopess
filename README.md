@@ -12,16 +12,12 @@ I'm Gabriel, a passionate software developer from Brazil. I'm 21, and currently 
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=GSheetAPI&theme=react&hide_border=false&show_icons=true"  alt="github-readme-streak-stats">
   
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=csvLogUploader-backend&theme=react&hide_border=false&show_icons=true"  alt="github-readme-streak-stats">
-  
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=csvLogUploader-frontend&theme=react&hide_border=false&show_icons=true"  alt="github-readme-streak-stats">
 </p>
 
 <p float="left">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=ecommerceCRUD&theme=react&hide_border=false&show_icons=true"  alt="github-readme-streak-stats">
   
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=Algorithms-DS&theme=react&hide_border=false&show_icons=true"   alt="github-readme-streak-stats">
-  
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Gabriellopess&repo=DRF-SimpleAPI&theme=react&hide_border=false&show_icons=true" alt="github-readme-streak-stats">
 </p>
 
 <hr/>
